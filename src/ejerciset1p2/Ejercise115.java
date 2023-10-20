@@ -5,9 +5,10 @@ import java.util.Scanner;
 public class Ejercise115 {
 
 	public static void main(String[] args) {
-		cs Scanner = new Scanner(System.in);
+		Scanner cs = new Scanner(System.in);
 		System.out.print("nota primer trimestre:");
-		int nota1 = ne
+		int nota1 = cs.nextInt();
+		
 
 	}
 
